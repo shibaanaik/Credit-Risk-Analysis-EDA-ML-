@@ -38,6 +38,6 @@ Default risk analysis
 
 Debt-to-Income (DTI) trends
 
-High-risk customer identification
+income Vs age trend
 
 Enabled better financial decision-making through data-driven insights.
